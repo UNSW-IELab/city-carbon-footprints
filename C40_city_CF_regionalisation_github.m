@@ -1,8 +1,7 @@
 %% C40_city_CF_regionalisation_github.m
 
-% This script accompanies the paper "Consumption-Based Carbon Footprints
-% of Global Cities" by Wiedmann et al, submitted to Nature Climate Change
-% in November 2017.
+% This script accompanies the paper "Consumption-Based Carbon Footprints of Global
+% Cities" by Wiedmann et al, submitted to the Journal of Industrial Ecology in 2020.
 
 % The script creates regionalised two-region IO tables for single cities
 % and rest-of-nations in GTAP format. It then inserts these two-region IO
